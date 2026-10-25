@@ -1,6 +1,5 @@
 Hi, I'm Priyanshu 👋  
-I enjoy building full-stack web applications and real-time systems.  
-Currently working on a real-time 1v1 coding platform.
+I enjoy building full-stack web applications and real-time systems. 
 
 <!--
 **PRIYANSHU160904/PRIYANSHU160904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
